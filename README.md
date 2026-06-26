@@ -67,8 +67,10 @@ D:\CCB-Wanding\ccb-launch-aionui.cmd
 
 | Submodule | Branch | Commit |
 |-----------|--------|--------|
-| `backend/` | `main` | `4432998e` (CCB-Iinstaller) |
+| `backend/` | `main` | `08127fb1` (CCB-Iinstaller) |
 | `desktop/` | `ccb-wanding-1.1.2-recovered` | `109aa15` (AionUi fork) |
+
+CLI core (not a submodule): [claude-code @ `ccb-wanding-1.1.2-recovered` / `238f4635`](https://github.com/JASMINE145-ACT/claude-code/tree/ccb-wanding-1.1.2-recovered)
 
 ## What not to commit here
 
